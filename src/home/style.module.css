@@ -1,0 +1,13 @@
+/* .home {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: background-image 0.3s ease;
+}
+
+.home:has(h1:hover) {
+  background-image: url('/images/Joji/nectar.jpg');
+} */
