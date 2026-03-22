@@ -13,6 +13,12 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@tanstack/react-router": "^1.163.3",
+    "@tanstack/react-router-devtools": "^1.163.3",
+    "clsx": "^2.1.1",
+    "gsap": "^3.14.2",
+    "lucide-react": "^0.575.0",
     "prettier-plugin-organize-imports": "^4.3.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
@@ -37,6 +43,7 @@
     "@storybook/addon-a11y": "^10.2.10",
     "@storybook/addon-docs": "^10.2.10",
     "@storybook/addon-onboarding": "^10.2.10",
+    "@tanstack/router-plugin": "^1.164.0",
     "eslint-plugin-storybook": "^10.2.10",
     "vitest": "^4.0.18",
     "playwright": "^1.58.2",
